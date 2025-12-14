@@ -217,7 +217,7 @@ void avoidObstacle() {
 
 
 ## 🙏 **Ghi Nhận**
-Nhóm 2 CNTT 17-01
+Nhóm 3 CNTT 17-01
 | Thành Viên | Vai Trò |
 |------------|---------|
 | Bùi Hữu Tri Phương | Phát triển phần cứng |
