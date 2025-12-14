@@ -232,8 +232,3 @@ Nhóm 3 CNTT 17-01
   <strong>⭐ Nếu bạn thấy dự án hữu ích, hãy cho chúng tôi một star trên GitHub!</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/your-repo?style=social" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/forks/your-repo?style=social" alt="GitHub Forks"/>
-  <img src="https://img.shields.io/github/issues/your-repo" alt="GitHub Issues"/>
-</p>
