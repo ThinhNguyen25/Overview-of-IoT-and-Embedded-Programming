@@ -217,14 +217,13 @@ void avoidObstacle() {
 
 
 ## 🙏 **Ghi Nhận**
-
+Nhóm 2 CNTT 17-01
 | Thành Viên | Vai Trò |
 |------------|---------|
-| [Nhóm 3 CNTT 17-01] | 
-| [Bùi Hữu Tri Phương[ | Phát triển phần cứng |
-| [Nguyễn Quang Thịnh[ | Lập trình Arduino |
-| [Lại Minh Hiệp[ | Phát triển web interface |
-| [Hoàng Đình Gia Huy[ | Testing & Documentation |
+| Bùi Hữu Tri Phương | Phát triển phần cứng |
+| Nguyễn Quang Thịnh | Lập trình Arduino |
+| Lại Minh Hiệp | Phát triển web interface |
+| Hoàng Đình Gia Huy | Testing & Documentation |
 
 
 
