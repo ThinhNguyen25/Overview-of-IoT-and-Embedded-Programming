@@ -90,7 +90,8 @@ Echo  → 12
 ```
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/685842f4-b097-400c-83dd-36b55d3045f1" alt="Sơ đồ mạch" width="600"/>
+  <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/06a570e2-9ac7-4bb6-b2cf-963fa4b34640" />
+
 </p>
 
 ## 🖥️ **Giao Diện Web**
